@@ -8,7 +8,7 @@ public class Rest1Controller {
 	
 	@GetMapping("/rest1/getData")
 	public String method1() {
-		System.out.println("Saikaaaaaaaaaaaa");
+		System.out.println("Sravs");
 		return "from rest1 project";
 	}
 }
